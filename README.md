@@ -29,6 +29,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
 ```dart
 // tools_I_use organized
@@ -37,5 +39,7 @@ class About extends Me {
   const myTools = {
     "Frontend" : { "HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS", "Bootstrap" },
     "VersionControl" : { "Git" },
+    "Design" : { "Figma", "Photoshop" },
+    "Platforms" : { "GNU/Linux", "Windows" }
   };
 }
