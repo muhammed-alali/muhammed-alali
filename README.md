@@ -6,8 +6,8 @@
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=muhammed-alali&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammed-alali&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/muhammed--alali-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+
+[![Instagram](https://img.shields.io/badge/muh__ammed0122-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/muh_ammed0122/)
 </div>
 
 <hr></hr>
@@ -33,9 +33,7 @@
 class About extends Me { 
   const myTools = {  
     "Frontend" : { "HTML", "CSS", "Javascript", "React", "Next.js", "TailwindCSS", "Bootstrap" },
-    "OtherLanguages" : { "Markdown", "Json" },
     "Editors" : { "Vscode" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+    "OtherTools" : { "Git",}
   };
 }
