@@ -6,40 +6,41 @@
 <details>
 <p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?muhammed-alali=your-muhammed-alali&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-muhammed-alali&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/MuhammedAli-grey?style=flat&logo=telegram)](https://t.me/yourtelegram) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=muhammed-alali&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammed-alali&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/muhammed--alali-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// tools_I_use organized for Frontend
 
-class About extends Me {
-  const myTools = {
-    "Frontend" : { "HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS", "Bootstrap" },
-    "VersionControl" : { "Git" },
-    "Design" : { "Figma", "Photoshop" },
-    "Platforms" : { "GNU/Linux", "Windows" }
+class About extends Me { 
+  const myTools = {  
+    "Frontend" : { "HTML", "CSS", "Javascript", "React", "Next.js", "TailwindCSS", "Bootstrap" },
+    "OtherLanguages" : { "Markdown", "Json" },
+    "Editors" : { "Vscode" },
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop" }
   };
 }
